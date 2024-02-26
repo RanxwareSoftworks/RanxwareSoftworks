@@ -13,7 +13,12 @@
   
   <hr>
 
-  <p>As of now, Ranxware is starting into a new development of their software. Be prepared!</p>
+  <h2>Scripts</h2>
+  <p>As of now, we are only able to give you our old script. In the meantime, we are working on a revamp as soon as possible!</p>
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RanxwareSoftworks/lua-prototypes/main/old-mvsd.lua"))()
+```
 
   <br>
   <sub>© Ranxware Softworks 2023.</sub>
