@@ -7,14 +7,14 @@
   <br>
   
   <h2>What is Ranxware?</h2>
-  <p>Ranxware is a brand-new software that gives you advantages towards gameplay on Roblox.</p>
-  <p>This software is created in early 2023, to provide you good advantages to other players which can be either legit or blatant.</p>
+  <p>Ranxware is a brand-new script hub that gives you advantages towards gameplay on Roblox.</p>
+  <p>This script hub was created in early 2023, to provide you amazing advantages to other players which can be either legit or blatant.</p>
   <p>No matter the costs, Ranxware will continue to strive and work hard to update their scripts, so you can enjoy our scripts anytime!</p>
   
   <hr>
 
   <h2>Scripts</h2>
-  <p>Ranxware is working on better-formatted, unpatched, and bypassed scripts just for you to enjoy!</p>
+  <p>Ranxware is working on better-formatted, unpatched, and bypassed scripts just for you!</p>
   <p>We will see you soon!</p>
 
   <br>
