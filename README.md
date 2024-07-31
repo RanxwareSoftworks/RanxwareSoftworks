@@ -15,7 +15,7 @@
 
   <h2>Scripts</h2>
   <p>Ranxware is working on better-formatted, unpatched, and bypassed scripts just for you!</p>
-  <p>We will see you soon!</p>
+  <p>Ranxware will be out as soon as possible!</p>
 
   <br>
   <sub>© Ranxware Softworks 2023.</sub>
